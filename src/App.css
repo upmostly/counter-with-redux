@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+.App{
+    padding:1.5rem;
+}
+.count{
+    border:2px solid black;
+    width:30rem;
+    height:5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:2rem;
+    border-radius: 0.5rem;
+}
+
+button{
+    margin:2rem 0 0 5rem;
+    height:3rem;
+    background-color: aqua;
+    color:black;
+    font-size:1.5rem;
+    padding:0.25rem;
+    border-radius: 0.5rem;
+}
